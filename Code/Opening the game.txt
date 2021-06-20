@@ -1,2 +1,0 @@
-How to open the game without Visual Studio:
-Final_Game> Final_Game> bin > Debug > GXPEngine.exe
