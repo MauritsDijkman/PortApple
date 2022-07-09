@@ -7,5 +7,5 @@ This repository contains all the content of the game 'PortApple'.
 **Install requirements**
 - Unzip the download folder on your PC
 - Open the unzipped folder
-- Navigate to 'Final_Game' --> 'Final_Game' --> 'Debug'
+- Navigate to 'Final_Game' --> 'Final_Game' --> 'bin' --> 'Debug'
 - Launch 'GXPEngine.exe' to start playing
